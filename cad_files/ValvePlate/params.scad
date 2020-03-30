@@ -8,7 +8,8 @@
   th2 = thickness/2.0;
   x1 = 25.0;
   y1 = 11.5;
-  th_plate = 3.0;
+  th_plate = 4.0;
+  ha_thick = 4.0; // hose adapter plate thickness
 
   // depth of threadable hole
   scdepth = 4.0;
