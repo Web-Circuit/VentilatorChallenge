@@ -3,7 +3,7 @@
   len2 = length/2.0;
   width = 28.0;
   w2 = width/2.0;
-  height = 12.0;
+  height = 14.0;
   thickness = 3.0;
   th2 = thickness/2.0;
   x1 = 25.0;
@@ -17,3 +17,4 @@
   // m3 screws
   rm3small = 1.4;  // threadable hole
   rm3large = 1.6;  // passthrough hole
+  rm3shank = 1.65;  // passthrough hole - no threads
